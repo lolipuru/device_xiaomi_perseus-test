@@ -43,3 +43,6 @@ persist.sensor.sardisable  u:object_r:sensors_prop:s0
 # Thermal
 persist.sys.thermal.       u:object_r:thermal_engine_prop:s0
 sys.thermal.               u:object_r:thermal_engine_prop:s0
+
+# Sliders
+persist.slider.         u:object_r:persist_slider_prop:s0
